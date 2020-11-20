@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["watch-en-json.translation"],{d124:function(e){e.exports=JSON.parse('{"user_join":"{name} joined the room","user_left":"{name} left the room","new_ownership":"{name} has now the room ownership","video_pause":"Video paused by {name}","video_play":"Video playing by {name}","invalid_video":"Invalid video url"}')}}]);
+//# sourceMappingURL=watch.translation.en.fc66af0e.js.map
